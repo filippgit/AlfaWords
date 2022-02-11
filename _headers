@@ -1,0 +1,6 @@
+﻿/static/*
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: nosnippet
+
+https://alfawords.pages.dev/*
+  X-Robots-Tag: noindex
